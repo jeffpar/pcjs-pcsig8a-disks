@@ -1,8 +1,8 @@
 {
 "imageInfo": {
   "type": "CHS",
-  "name": "DISK0176.json",
-  "hash": "none",
+  "name": "DISK0176.img",
+  "hash": "904bf8508d2a375120ab45440a9ccd3a",
   "checksum": -1440778290,
   "cylinders": 40,
   "heads": 1,
@@ -11,7 +11,7 @@
   "diskSize": 163840,
   "version": "2.00",
   "repository": "pcjs.org",
-  "diskdump.js": ""
+  "diskdump.js": "--disk DISK0176.img --output DISK0176.json"
 },
 "volTable": [
   {

@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK0950",
+  "format": "PC320K",
   "hash": "none",
   "checksum": -895708743,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK0950 --output DISK0950.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

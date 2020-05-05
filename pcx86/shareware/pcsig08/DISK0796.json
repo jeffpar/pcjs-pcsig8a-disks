@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK0796",
+  "format": "PC360K",
   "hash": "none",
   "checksum": -390759718,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK0796 --output DISK0796.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

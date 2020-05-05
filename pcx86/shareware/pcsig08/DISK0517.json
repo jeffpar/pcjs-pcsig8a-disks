@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK0517",
+  "format": "PC320K",
   "hash": "none",
   "checksum": -869225724,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 327680,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK0517 --output DISK0517.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

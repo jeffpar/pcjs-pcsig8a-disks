@@ -2,6 +2,7 @@
 "imageInfo": {
   "type": "CHS",
   "name": "DISK0608",
+  "format": "PC360K",
   "hash": "none",
   "checksum": -1952017561,
   "cylinders": 40,
@@ -10,8 +11,7 @@
   "sectorDefault": 512,
   "diskSize": 368640,
   "version": "2.00",
-  "repository": "pcjs.org",
-  "diskdump.js": "--dir DISK0608 --output DISK0608.json"
+  "repository": "pcjs.org"
 },
 "volTable": [
   {

@@ -37,7 +37,17 @@
   {"hash":"aa2dfe3bdacefb099d72fffe75b5dcdf","path":"/GO.BAT","attr":"0x20","date":"1989-06-14 15:12:34","size":38},
   {"hash":"aadd4744eec1e173979bc9c5e7512ffd","path":"/GO.TXT","attr":"0x20","date":"1990-03-16 13:04:38","size":1213},
   {"hash":"2777a914fffea410433225d798a1e2ce","path":"/PKUNZIP.EXE","attr":"0x20","date":"1989-10-01 01:02:00","size":22022},
-  {"hash":"d61816496bcf48ae8b6282ed418382fa","path":"/RBBS-EXE.ZIP","attr":"0x20","date":"1990-03-02 08:34:14","size":303003}
+  {"hash":"d61816496bcf48ae8b6282ed418382fa","path":"/RBBS-EXE.ZIP","attr":"0x20","date":"1990-03-02 08:34:14","size":303003},
+  {"hash":"fb526bbf099f05c0d51d2840baf03f9a","path":"/BULLET6.ZIP/BULLET6","attr":"0x40","date":"1990-03-03 16:37:36","size":36352},
+  {"hash":"167192016f73e782afd1c757ff3f1d04","path":"/RBBS-EXE.ZIP/CONFIG.EXE","attr":"0x40","date":"1990-02-11 07:41:08","size":189482},
+  {"hash":"5492beccdab1187fe89f86466475c4d0","path":"/RBBS-EXE.ZIP/EXE-READ.ME","attr":"0x40","date":"1990-02-11 06:33:38","size":2224},
+  {"hash":"4b91373a5a81d7e547a34c41e27025c4","path":"/RBBS-EXE.ZIP/LDFILTER.COM","attr":"0x40","date":"1987-06-06 17:57:48","size":1024},
+  {"hash":"46995d5fb15d159c1d87395982fb09ea","path":"/RBBS-EXE.ZIP/MODEMS.SET","attr":"0x40","date":"1990-02-04 20:00:50","size":3316},
+  {"hash":"ce0b89705b07a8631bfa8bc2398addd0","path":"/RBBS-EXE.ZIP/RBBS-PC.EXE","attr":"0x40","date":"1990-03-02 16:30:24","size":341088},
+  {"hash":"a162f7d2819110f50b4df429c33434c8","path":"/RBBS-EXE.ZIP/STDERR.COM","attr":"0x40","date":"1985-07-22 07:01:12","size":384},
+  {"hash":"2ff079c4346ded35627fc05394e78a2b","path":"/RBBS-EXE.ZIP/WATCHDG1.COM","attr":"0x40","date":"1984-10-10 07:01:46","size":384},
+  {"hash":"acb86c47794e8c2fbdda46c76a285f4d","path":"/RBBS-EXE.ZIP/WATCHDGS.COM","attr":"0x40","date":"1988-03-07 07:12:32","size":391},
+  {"hash":"155d78dde3b92b46ae3cb39eea53c7ae","path":"/RBBS-EXE.ZIP/WATCHDOG.COM","attr":"0x40","date":"1984-10-10 07:00:02","size":384}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -49,7 +49,13 @@
   {"hash":"c909e8edc4b69555c3e2ff482771bb91","path":"/PKXARC.COM","attr":"0x20","date":"1986-10-22 17:00:00","size":10318},
   {"hash":"7b29f7dc14cc98e49dfe3f16e8540819","path":"/PKXARC.DOC","attr":"0x20","date":"1987-02-12 03:10:08","size":11616},
   {"hash":"e62d1bdd36ef73e839fa6201a68b082b","path":"/QCHART.EXE","attr":"0x20","date":"1989-02-21 03:50:18","size":67614},
-  {"hash":"c4f8e367aede880240bc42876461ed57","path":"/README","attr":"0x20","date":"1989-02-17 10:36:16","size":8974}
+  {"hash":"c4f8e367aede880240bc42876461ed57","path":"/README","attr":"0x20","date":"1989-02-17 10:36:16","size":8974},
+  {"hash":"71a933a50f91eba5991c2d60679457a5","path":"/ARCHIVE.ARC/BIRDFACE.PAS","attr":"0x40","date":"1987-09-29 05:00:18","size":4805},
+  {"hash":"2e7eee54515bda428ca97e7ed28de0e7","path":"/ARCHIVE.ARC/EVALUATE.PAS","attr":"0x40","date":"1988-07-07 05:46:52","size":18027},
+  {"hash":"adac2790294be68b3d15eef85ecd9420","path":"/ARCHIVE.ARC/EXEC.PAS","attr":"0x40","date":"1989-02-17 06:46:10","size":2641},
+  {"hash":"b26b8aa8b9a17c325d9a630f94de8689","path":"/ARCHIVE.ARC/GETREAL.PAS","attr":"0x40","date":"1987-09-09 04:32:22","size":1481},
+  {"hash":"8d2f0b4967dc4ceee62d5b89e68d7db9","path":"/ARCHIVE.ARC/LABCOAT.PAS","attr":"0x40","date":"1989-02-17 05:51:16","size":61830},
+  {"hash":"022aa35eacf3a647bc68217821c889f6","path":"/ARCHIVE.ARC/LIPID.PAS","attr":"0x40","date":"1988-07-07 06:19:08","size":60204}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

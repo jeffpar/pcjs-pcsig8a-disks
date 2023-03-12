@@ -40,7 +40,21 @@
   {"hash":"5536802fefee715a20e63842b93c2d36","path":"/NEWBASE.ARC","attr":"0x20","date":"1988-11-30 20:00:00","size":255677},
   {"hash":"3aad1a58aedad397fa286411c0e14120","path":"/NEWBDOC.ARC","attr":"0x20","date":"1988-11-30 20:00:00","size":39738},
   {"hash":"1d392b946629645aa7ab070259f01345","path":"/README.DOC","attr":"0x20","date":"1988-11-30 20:00:00","size":1894},
-  {"hash":"915842a9a4f86b79ed177985295fba0f","path":"/XARC.COM","attr":"0x20","date":"1987-06-17 08:07:00","size":11482}
+  {"hash":"915842a9a4f86b79ed177985295fba0f","path":"/XARC.COM","attr":"0x20","date":"1987-06-17 08:07:00","size":11482},
+  {"hash":"5f0f4780d600db8fbc5c902e1fa01e10","path":"/NEWBASE.ARC/NB.CFG","attr":"0x40","date":"1988-12-01 12:00:00","size":318},
+  {"hash":"c2bcc1c3fa96f73250b889fdbf8d92e4","path":"/NEWBASE.ARC/NB.EXE","attr":"0x40","date":"1988-12-01 12:00:00","size":109406},
+  {"hash":"ea93db3128af3af9cb75950c378d6a8f","path":"/NEWBASE.ARC/NB1.EXE","attr":"0x40","date":"1988-12-01 12:00:00","size":114150},
+  {"hash":"9a7b40753d4dfa27417b8705b8f8f592","path":"/NEWBASE.ARC/NB2.EXE","attr":"0x40","date":"1988-12-01 12:00:00","size":102552},
+  {"hash":"eb10c866a3cfe78c31a1065124c0907d","path":"/NEWBDOC.ARC/NEWBASE1.DOC","attr":"0x40","date":"1988-12-01 20:00:00","size":60105},
+  {"hash":"238a8226e323f0812790bd837b938e37","path":"/NEWBDOC.ARC/NEWBASE2.DOC","attr":"0x40","date":"1988-12-01 20:00:00","size":20792},
+  {"hash":"290cac3b1687eea75088281f91303dab","path":"/NEWBDOC.ARC/ORDER.BAT","attr":"0x40","date":"1988-12-01 20:00:00","size":324},
+  {"hash":"edf756e6f0db8fbb7a3b1182a3f1e741","path":"/NEWBDOC.ARC/ORDERFRM.DOC","attr":"0x40","date":"1988-12-01 20:00:00","size":2614},
+  {"hash":"6e6db73a00aa85166d5ae77076adab9b","path":"/NEWBDOC.ARC/SAMPLE.NB","attr":"0x40","date":"1988-12-01 20:00:00","size":2376},
+  {"hash":"931225f0c4b0bd5f8f449db4b9bf7bea","path":"/NEWBDOC.ARC/SAMPLEA","attr":"0x40","date":"1988-12-01 20:00:00","size":512},
+  {"hash":"81e76ace49a28aa98dbbc9458c173f89","path":"/NEWBDOC.ARC/SAMPLEV","attr":"0x40","date":"1988-12-01 20:00:00","size":1792},
+  {"hash":"3271458185ffb7707ddb23915fe83ffa","path":"/NEWBDOC.ARC/SAMPLEX","attr":"0x40","date":"1988-12-01 20:00:00","size":1161},
+  {"hash":"9050253c73729a9b4dcbb992ba0d2c48","path":"/NEWBDOC.ARC/SAMPLEY","attr":"0x40","date":"1988-12-01 20:00:00","size":2048},
+  {"hash":"3401e775ae53d11482b0b6de80a48a8e","path":"/NEWBDOC.ARC/SAMPLEZ","attr":"0x40","date":"1988-12-01 20:00:00","size":21200}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -89,7 +89,22 @@
   {"hash":"d9b8e8467a7f85f6c3139a84f81e6809","path":"/WAIT.COM","attr":"0x20","date":"1980-01-01 00:24:06","size":128},
   {"hash":"1744a526cc744a9ea45391813a0352ac","path":"/WAIT.DOC","attr":"0x20","date":"1984-02-19 14:06:08","size":85},
   {"hash":"c3a2408c4316342ceb7dc521ed5b6545","path":"/WAITTIME.COM","attr":"0x20","date":"1984-12-07 17:04:52","size":384},
-  {"hash":"45c0bda2c71e9249dcb074a126a8295f","path":"/WAITTIME.DOC","attr":"0x20","date":"1984-12-07 17:04:16","size":896}
+  {"hash":"45c0bda2c71e9249dcb074a126a8295f","path":"/WAITTIME.DOC","attr":"0x20","date":"1984-12-07 17:04:16","size":896},
+  {"hash":"1b93ef7f6c261696579fc23367326850","path":"/SCR21F.ARC/READ_ME.1ST","attr":"0x40","date":"1987-01-16 00:48:10","size":719},
+  {"hash":"10a49a726f14134ec882b02425bd94a0","path":"/SCR21F.ARC/SCR.TXT","attr":"0x40","date":"1987-01-16 00:19:10","size":29184},
+  {"hash":"1eb131436623c35dc6658db87ba59f38","path":"/SCR21F.ARC/SCRBATCH.COM","attr":"0x40","date":"1986-12-13 05:27:34","size":2060},
+  {"hash":"5c03af94a8610d98b02830e30ad00b01","path":"/SCR21F.ARC/SCRCLIPR.OBJ","attr":"0x40","date":"1986-09-02 02:29:28","size":663},
+  {"hash":"a6d0e096db13b1da8d5bf90928f5c4a5","path":"/SCR21F.ARC/SCRCOB.OBJ","attr":"0x40","date":"1986-07-01 21:44:06","size":744},
+  {"hash":"a8e4b381a03c81871c6926fe1cb68367","path":"/SCR21F.ARC/SCRCONV.COM","attr":"0x40","date":"1986-06-27 04:44:54","size":2681},
+  {"hash":"4c8eb19e90d4c8324980d1bd99f93d74","path":"/SCR21F.ARC/SCRDBASE.BIN","attr":"0x40","date":"1986-09-02 02:30:04","size":8183},
+  {"hash":"0e4fd6e7119d5267073f36540a15758a","path":"/SCR21F.ARC/SCREDIT.COM","attr":"0x40","date":"1987-01-16 00:42:34","size":8611},
+  {"hash":"fca1d53a068d5c2b09e65f40294d8adf","path":"/SCR21F.ARC/SCRHELPA.SCR","attr":"0x40","date":"1987-01-16 00:23:48","size":3872},
+  {"hash":"2287d9414b9274805a641d159e4f88e3","path":"/SCR21F.ARC/SCRHELPB.SCR","attr":"0x40","date":"1987-01-16 00:24:06","size":3872},
+  {"hash":"acd974d265885e029103defed901447c","path":"/SCR21F.ARC/SCRHELPC.SCR","attr":"0x40","date":"1987-01-16 00:24:28","size":3872},
+  {"hash":"9aa203e9df76e20b163d1aad4d99bcf6","path":"/SCR21F.ARC/SCRHELPD.SCR","attr":"0x40","date":"1987-01-16 00:24:36","size":3872},
+  {"hash":"d6d79eb08941ac8038f3b0ccdbd11f45","path":"/SCR21F.ARC/SCRHELPE.SCR","attr":"0x40","date":"1987-01-16 00:24:52","size":3872},
+  {"hash":"eab0d90a2b23a0aef3508e2750812d03","path":"/SCR21F.ARC/SCRHELPF.SCR","attr":"0x40","date":"1987-01-16 00:25:06","size":3872},
+  {"hash":"1977d7c8c17a6c887bbeefa37feb7eae","path":"/SCR21F.ARC/SCRQBAS.OBJ","attr":"0x40","date":"1986-06-29 06:13:40","size":749}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-2147454974,130818,131080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

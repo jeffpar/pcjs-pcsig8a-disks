@@ -38,7 +38,19 @@
   {"hash":"1ef3d76255eed48711cdb9f600b07336","path":"/GO.BAT","attr":"0x20","date":"1986-11-21 01:02:08","size":584},
   {"hash":"b9d8e729cefd4114148633726e57cc6f","path":"/PROLOG.ARC","attr":"0x20","date":"1986-12-26 03:13:26","size":274923},
   {"hash":"e3930507f9f42095357ef2bfafa7e09e","path":"/READ.ME","attr":"0x20","date":"1986-11-06 17:48:04","size":3870},
-  {"hash":"a4604391e999e749f608e50a89581495","path":"/README","attr":"0x20","date":"1985-11-18 04:00:02","size":3200}
+  {"hash":"a4604391e999e749f608e50a89581495","path":"/README","attr":"0x20","date":"1985-11-18 04:00:02","size":3200},
+  {"hash":"c552e71b23437923c5161fb3b89e4119","path":"/ARCDOC.ARC/ARC.DOC","attr":"0x40","date":"1986-03-05 19:34:06","size":58775},
+  {"hash":"4ad46849309d8f269a42bc07b7c62ab2","path":"/PROLOG.ARC/ATN.ARC","attr":"0x40","date":"1986-07-20 08:37:36","size":28125},
+  {"hash":"c200322ec9b8f062144b1129ee750221","path":"/PROLOG.ARC/EXPERT.ARC","attr":"0x40","date":"1986-09-09 01:14:56","size":17586},
+  {"hash":"5e6f0edc84353cdbfb95a5dc94d87ef1","path":"/PROLOG.ARC/GAMES.ARC","attr":"0x40","date":"1986-11-01 11:30:44","size":20073},
+  {"hash":"34fe17469fdb7a347fc5b56b9ea21294","path":"/PROLOG.ARC/LOGIC.ARC","attr":"0x40","date":"1986-11-07 09:27:56","size":3008},
+  {"hash":"ffd1714a81659165cb76fd6f3c1ab9e1","path":"/PROLOG.ARC/PDPROLOG.ARC","attr":"0x40","date":"1986-12-26 19:13:52","size":166058},
+  {"hash":"179e15a652dd657fff7c7c4777ae3365","path":"/PROLOG.ARC/PIE.ARC","attr":"0x40","date":"1986-07-20 08:44:14","size":6577},
+  {"hash":"72607441c0bf644b7efcf6aad892c740","path":"/PROLOG.ARC/PUZZLES.ARC","attr":"0x40","date":"1986-07-20 08:43:24","size":9241},
+  {"hash":"b39279222916eddba9fd9b76f3e7600b","path":"/PROLOG.ARC/READ.ME","attr":"0x40","date":"1986-08-24 23:38:34","size":3392},
+  {"hash":"30bcf42b63cae319e49db018f9c17e07","path":"/PROLOG.ARC/SAMPLES.ARC","attr":"0x40","date":"1986-07-20 08:31:42","size":14947},
+  {"hash":"a8385abf31ca53cb973ce38bb270f808","path":"/PROLOG.ARC/UTILITY.ARC","attr":"0x40","date":"1986-07-20 08:41:12","size":4526},
+  {"hash":"5d2c1c20cc0da19c70cb738f8324a640","path":"/PROLOG.ARC/VISION.ARC","attr":"0x40","date":"1986-08-24 23:33:34","size":5396}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

@@ -41,7 +41,18 @@
   {"hash":"5b190ac9b94f9ad0ffb80de502198fd0","path":"/PAS.EXE","attr":"0x20","date":"1989-01-30 12:58:10","size":154736},
   {"hash":"74e8b8c7802c4ce2ecc8b261eea633fe","path":"/PASAUX.ARC","attr":"0x20","date":"1989-01-27 06:59:08","size":151368},
   {"hash":"0348800af43c9bc127a58c59bdffbebe","path":"/READ.ME","attr":"0x20","date":"1988-12-19 17:16:08","size":2562},
-  {"hash":"fbaaa851addb6a6fa34e0df8acbe9158","path":"/UNDO.EXE","attr":"0x20","date":"1988-12-27 06:41:16","size":12688}
+  {"hash":"fbaaa851addb6a6fa34e0df8acbe9158","path":"/UNDO.EXE","attr":"0x20","date":"1988-12-27 06:41:16","size":12688},
+  {"hash":"dd0bdd7232fbf38e19ac701524fd47a2","path":"/PASAUX.ARC/ASB.COM","attr":"0x40","date":"1987-11-26 03:05:18","size":619},
+  {"hash":"02958a3f8723b8a83d8e2e39c4fd34c8","path":"/PASAUX.ARC/ASBDOC.TXT","attr":"0x40","date":"1988-02-27 18:12:42","size":1537},
+  {"hash":"fcefa1c893a05c5a64e79f3b82b6c8e3","path":"/PASAUX.ARC/ASBE.COM","attr":"0x40","date":"1987-11-26 03:05:42","size":598},
+  {"hash":"57b4d36c6972eb1892d571307b61616a","path":"/PASAUX.ARC/CHANGES.TXT","attr":"0x40","date":"1988-12-25 00:52:38","size":6444},
+  {"hash":"386b6f2bc836cccb644b8060968397d0","path":"/PASAUX.ARC/PAS.HLP","attr":"0x40","date":"1989-01-16 03:18:06","size":39329},
+  {"hash":"5fdfd981eb05a07a034641b38cd48bcf","path":"/PASAUX.ARC/PAS.OVR","attr":"0x40","date":"1989-01-27 22:52:42","size":109275},
+  {"hash":"06690667ecde95e85b4a1acc3b00afc9","path":"/PASAUX.ARC/PASDOC.TXT","attr":"0x40","date":"1989-01-27 22:57:50","size":138575},
+  {"hash":"bea8d11eb8b3a5831008bbb1c2114bd0","path":"/PASAUX.ARC/PASINDEX.DBD","attr":"0x40","date":"1988-12-17 23:34:36","size":4401},
+  {"hash":"7e9fa1dd0c0b14d1080a5b73e1123c24","path":"/PASAUX.ARC/PASTLOG.DBD","attr":"0x40","date":"1988-12-06 17:52:04","size":4564},
+  {"hash":"394ac2a63e10644aa7d3be87ef28929c","path":"/PASAUX.ARC/PASUSERS.DBD","attr":"0x40","date":"1988-12-18 00:47:50","size":16137},
+  {"hash":"18ff9dcc5a12441f5ae70ad816c8a1ff","path":"/PASAUX.ARC/PS.BAT","attr":"0x40","date":"1988-12-27 23:56:48","size":41}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

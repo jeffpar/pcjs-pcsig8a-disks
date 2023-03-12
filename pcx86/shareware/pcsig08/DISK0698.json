@@ -64,7 +64,21 @@
   {"hash":"98d37f1ddaa3b2483d2b9ea919372ccd","path":"/INSTALL.BAT","attr":"0x20","date":"1988-05-12 13:43:06","size":6914},
   {"hash":"815105fc97d163d8ad2dc8f0759dae7f","path":"/PKXARC.COM","attr":"0x20","date":"1987-04-26 17:00:00","size":12242},
   {"hash":"d2e49933c923138a6aaf40677dbbe203","path":"/TFO519B.ARC","attr":"0x20","date":"1988-05-20 11:43:24","size":302223},
-  {"hash":"8e37d8be80e89f5ca8651e90abc52e0b","path":"/UPDATE.BAT","attr":"0x20","date":"1988-05-12 13:42:06","size":4793}
+  {"hash":"8e37d8be80e89f5ca8651e90abc52e0b","path":"/UPDATE.BAT","attr":"0x20","date":"1988-05-12 13:42:06","size":4793},
+  {"hash":"d75dc74e678619a01c7c0b5097ea2159","path":"/TFO519B.ARC/D.COM","attr":"0x40","date":"1985-08-27 20:20:08","size":3221},
+  {"hash":"ad5fefde1491cadef84c8d3c41768d02","path":"/TFO519B.ARC/HELP0101.TXT","attr":"0x40","date":"1988-04-10 23:24:30","size":910},
+  {"hash":"2a7caeec4fc4b3919d263972c18f1e50","path":"/TFO519B.ARC/HELP0201.TXT","attr":"0x40","date":"1988-05-06 19:12:50","size":5310},
+  {"hash":"1e113a08dbfc8860deb48dc400995209","path":"/TFO519B.ARC/HELP0301.TXT","attr":"0x40","date":"1988-04-11 02:47:04","size":1337},
+  {"hash":"e4c67734769f94b90b9d6a88dbba82e2","path":"/TFO519B.ARC/IAMACUST.FOX","attr":"0x40","date":"1988-05-12 19:00:10","size":8508},
+  {"hash":"315830e4a8be286ebe0e7aaa6f010fb3","path":"/TFO519B.ARC/IAMCOST.FOX","attr":"0x40","date":"1988-05-21 01:35:36","size":19086},
+  {"hash":"99f5a246c8351165c03805d54efc1901","path":"/TFO519B.ARC/IAMEDIT.FOX","attr":"0x40","date":"1988-05-17 02:12:34","size":12619},
+  {"hash":"461f22cc4ec0e165c299a88d6d9dccd1","path":"/TFO519B.ARC/IAMHELP.FOX","attr":"0x40","date":"1988-05-04 19:17:32","size":48378},
+  {"hash":"81423cea1f3511b1cb5e9bb1c6b0fce3","path":"/TFO519B.ARC/IAMICUST.FOX","attr":"0x40","date":"1988-05-18 20:53:48","size":9322},
+  {"hash":"7ae9e991eb40c5695ad0e196a7d84198","path":"/TFO519B.ARC/IAMREPT.FOX","attr":"0x40","date":"1988-05-04 01:03:06","size":14347},
+  {"hash":"7d4b2f41e082b2148767dde8b926ca22","path":"/TFO519B.ARC/PRINTPRO.BAT","attr":"0x40","date":"1988-05-13 18:55:48","size":1370},
+  {"hash":"bff26315dbed4ddc2e8f0fa15822312a","path":"/TFO519B.ARC/TFO59DOC.ARC","attr":"0x40","date":"1988-04-13 22:03:16","size":192158},
+  {"hash":"cd09decb890ef0318d44eccac7f3d7f5","path":"/TFO519B.ARC/WP.EXE","attr":"0x40","date":"1988-05-12 05:18:58","size":63200},
+  {"hash":"f588575660bf021258084c806e277ad7","path":"/TFO519B.ARC/WP.PAR","attr":"0x40","date":"1988-05-06 15:56:02","size":227}
 ],
 "diskData":[[[
   {"c":0,"h":0,"s":1,"l":512,"d":[1351679723,777210435,4674127,66050,-805277694,195842,131081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1437270016]},

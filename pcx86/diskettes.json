@@ -3196,7 +3196,8 @@
           },
           {
             "@title": "PCSIG08: DISK0798",
-            "@diskette": "DISK0798.json"
+            "@diskette": "DISK0798.json",
+            "@archive": "cdrom/701_800/DISK0798/DISK0798.ZIP"
           },
           {
             "@title": "PCSIG08: DISK0799",
